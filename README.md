@@ -1,21 +1,5 @@
 # gittest
 <<<<<<< HEAD
-
-
-this is for test
-
-
- linux
-docker
-
-=======
-this is for test
-<<<<<<< HEAD
-reamd me text 
-init
-service 
-version 
-
 webapp
 image:nginx
 database
